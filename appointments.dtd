@@ -1,0 +1,6 @@
+<!ELEMENT appointments (appointment+)>
+<!ELEMENT appointment (user, date, time, description)>
+<!ELEMENT user (#PCDATA)>
+<!ELEMENT date (#PCDATA)>
+<!ELEMENT time (#PCDATA)>
+<!ELEMENT description (#PCDATA)>

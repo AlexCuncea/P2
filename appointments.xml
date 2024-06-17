@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="appointments.xsl"?>
+<!DOCTYPE appointments SYSTEM "appointments.dtd">
+<appointments xmlns:xlink="http://www.w3.org/1999/xlink">
+    <appointment>
+        <user>Ana</user>
+        <date>2023-06-20</date>
+        <time>10:00</time>
+        <description>Tatto</description>
+        <link xlink:href="http://example.com" xlink:title="External Link">More Info</link>
+    </appointment>
+<appointment><user>ana@yahoo.com</user><date>2024-07-05</date><time>12:10</time><description>Piercing</description></appointment><appointment><user>alex@yahoo.com</user><date>2024-06-29</date><time>12:11</time><description>Tatto and Piercing</description></appointment></appointments>
